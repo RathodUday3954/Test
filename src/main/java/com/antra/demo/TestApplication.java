@@ -10,6 +10,7 @@ public class TestApplication {
 		SpringApplication.run(TestApplication.class, args);
 		System.out.println("In Main");
 		System.out.println("In feature 1");
+		System.out.println("Change made");
 	}
 
 }
